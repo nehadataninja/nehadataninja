@@ -10,7 +10,7 @@ Here are some of the projects I've worked on:
 2. **Customer Churn Prediction**: Built a predictive model to identify customers at risk of churning, helping the company retain valuable customers.
 3. **Resale Price Forecasting**: Implemented a time series forecasting model to predict stock prices, enabling investors to make informed decisions.
 
-Check out my [GitHub repositories](https://github.com/yourusername) for more projects!
+Check out my [GitHub repositories](https://github.com/nehadataninja?tab=repositories) for more projects!
 
 ## Skills
 - Data Analysis
