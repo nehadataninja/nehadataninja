@@ -21,6 +21,6 @@ Check out my [GitHub repositories](https://github.com/nehadataninja?tab=reposito
 - Statistical Analysis
 
 ## Contact Me
-Feel free to reach out to me via [LinkedIn](your LinkedIn profile URL) for collaborations or opportunities.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/neha-naik-analyst/) for collaborations or opportunities.
 
 Let's connect and explore the world of data together! 🚀
